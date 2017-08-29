@@ -1,5 +1,5 @@
 # hacker-howto
-Translation of  **How To Become A Hacker** by Eric S. Raymond.
+A Brazilian Portuguese translation of  **How To Become A Hacker** by Eric S. Raymond.
 
 The original version can be found [here](http://www.catb.org/~esr/faqs/hacker-howto.html).
 

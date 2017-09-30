@@ -5,7 +5,6 @@ The original version can be found [here](http://www.catb.org/~esr/faqs/hacker-ho
 
 This translation follows the Eric S. Raymond's [copying policy](http://catb.org/~esr/copying.html).
 
-For more information about this translation project, please consult the [about this translation](http://jonatha.daguerre.com.br/hacker-howto/translation.html) page (in Brazilian Portuguese).
 
 ## About this project
 This project came up with the goal of having a translation that is always being updated, reviewed and keeps its layout as similar as possible to the original document.
